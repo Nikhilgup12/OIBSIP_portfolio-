@@ -1,0 +1,172 @@
+
+#navlink1 {
+    color: white;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+#navlink2 {
+    color: white;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+#navlink3 {
+    color: white;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+#navlink4 {
+    color: white;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+#navlink5 {
+    color: white;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+.navbar-brand {
+    color: white;
+    font-weight: bold;
+    font-family: Roboto;
+}
+
+.Portfolio-background-container {
+    background-color: #191a1d;
+    background-size: cover;
+}
+
+.portfoilo-image {
+    border-radius: 300px;
+    width: 200px;
+}
+
+.portfolio-heading {
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.portfolio-discription {
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 20px;
+    color: grey;
+}
+
+.portfolio-button {
+    color: white;
+    background-color: #3f66d1;
+    border-width: 0;
+    border-radius: 10px;
+    height: 40px;
+    width: 120px;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 13px;
+
+
+}
+
+.portfolio-about-container {
+    background-color: #a2a398;
+    background-size: cover;
+
+}
+
+.about-heading {
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.about-discription {
+    font-family: Roboto;
+    font-weight: 500;
+    font-size: 15px;
+    color: white;
+}
+
+.about-image {
+    width: 270px;
+    border-radius: 30px;
+}
+
+.services-section-container {
+    background-color: #52606d;
+
+}
+
+.services {
+    color: #cced00;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 20px;
+}
+
+.services-main-heading {
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.services-item-container {
+    background-color: #323f4b;
+    border-radius: 10px;
+
+}
+
+.services-images {
+    height: 50px;
+    width: 50px;
+}
+
+.item-heading {
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 23px;
+}
+
+.item-discription {
+    color: #9aa5b1;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.projects-section-container {
+    background-color: #191a1d;
+    background-size: cover;
+
+}
+
+.projects-heading {
+    color: white;
+    font-family: Roboto;
+    font-weight: bold;
+    font-size: 30px;
+}
+
+.projects-image {
+    border-radius: 20px;
+
+}
+
+.form-section {
+    background-color: #848768;
+    background-size: cover;
+}
+
+.form-group {
+    color: white;
+    font-family: Roboto;
+    font-size: 17px;
+    font-weight: bold;
+}
